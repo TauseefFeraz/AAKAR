@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Akaar+</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_school_fragment">schoolFragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_schoolfragment">schoolfragment</string>
+
+    <string name="autofacilities">■ OutStation\n■ Luxory Cars\n■ Easy Rental\n■ Door-Door Pixk and Drop\n■ All Payment mode
+    </string>
+    <string name="title_activity_maps_school">Map</string>
+
+
+    <string name="restaurent">■ Bevrages\n■ Breakfast\n■ Lunch\n■ Dinner\n■ Salad\n■ Shakes and Drinks\n■ Special Thali
+    </string>
+    <string name="title_activity_tab_shopping">tab_shopping</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_bottom__navigation__shopping">Bottom_Navigation_Shopping</string>
+    <string name="title_activity_maps_ambulance">Map</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_tabactivitymain">tabactivitymain</string>
+    <string name="title_activity_maps_hospital">Map</string>
+</resources>
